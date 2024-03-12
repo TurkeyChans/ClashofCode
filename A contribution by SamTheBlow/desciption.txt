@@ -1,0 +1,42 @@
+A contribution by SamTheBlow
+
+Approved by lufis7,WhoThoandPatrickGPT
+
+ 	Goal
+
+You are in a room with happy people and sad people. You wish to measure how happy the room is.
+To do this, you decide to add one point for each happy face and remove one for each sad face.
+
+The possible emoticons are the following.
+Happy:
+=)
+^_^
+
+Sad:
+:(
+>_<
+
+
+The final score may be a negative number.
+
+Input
+
+Line 1: A string of emoticons, each separated by exactly one space.
+
+Output
+
+A single line containing the total happiness score.
+
+Constraints
+
+There may be any number of faces from 1 to 9 (inclusive).
+
+Example
+
+Input
+
+=) ^_^
+
+Output
+
+2
