@@ -1,0 +1,38 @@
+A contribution by scrauler
+
+Approved by KurczakJoe,BlackBirdandMattZ
+
+ 	Goal
+
+Peter wants to paint and fill two rectangles with the same color on the same wall. He needs to know the filling area in order to buy the necessary paint buckets. Peter does not want to double-paint overlapping regions.
+
+Input
+
+One line per rectangle:
+Line 1: Four space-separated integers corresponding to x y w h
+Line 2: Four space-separated integers corresponding to x y w h
+
+x y are the coordinates of the bottom left corner of the rectangle
+w stands for the width
+h stands for the height
+
+Output
+
+An integer with the filling area
+
+Constraints
+
+0 <= x, y < 100
+
+0 < w, h < 100
+
+Example
+
+Input
+
+2 3 4 5
+8 1 3 2
+
+Output
+
+26
