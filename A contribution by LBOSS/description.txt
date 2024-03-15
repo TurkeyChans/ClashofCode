@@ -1,0 +1,20 @@
+Goal
+
+Given a char C you should print this char in the middle of string S containing '*' with given length L.
+If you cannot center it print CAN'T : (for example: *a or a* is not centred so print CAN'T)
+
+Input
+C : char to be placed in the middle of S
+L : length of string S
+
+Output
+string S
+
+Example
+
+Input
+a
+7
+
+Output
+***a***
