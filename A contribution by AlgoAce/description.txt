@@ -1,0 +1,23 @@
+A contribution by AlgoAce
+
+Approved by hel-mefe,mamoussaandaessabir
+
+ 	Goal
+
+Given an integer number N, return the subtraction of the sum of its digits from the product of its digits.
+
+Input
+- N integer
+
+Output
+an integer for the required difference
+
+Constraints
+1 <= N <= 10^5
+Example
+
+Input
+1000
+
+Output
+-1
