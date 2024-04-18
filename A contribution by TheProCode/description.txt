@@ -1,0 +1,86 @@
+A contribution by TheProCode
+
+ Approved by Luj8n,EnderWigginsandAlex-1
+
+The game mode is REVERSE: You do not have access to the statement. You have to guess what to do by observing the following set of tests:
+
+01 Test 1
+
+Input
+
+Expected output
+
+1
+
+CodinGame
+python
+py
+CodinGame/python.py
+
+02 Test 2
+
+Input
+
+
+2
+Downloads
+Videos
+capture
+mp4
+
+Expected output
+
+Downloads/Videos/capture.mp4
+
+03 Test 3
+
+Input
+
+9
+This PC
+D:
+code
+programming
+languages
+easy
+beginner
+useful
+fast
+pythonstuff
+py
+
+Expected output
+
+This PC/D:/code/programming/languages/easy/beginner/useful/fast/pythonstuff.py
+
+04 Test 4
+
+Input
+
+20
+CodinGame
+puzzle
+ChuckNorris
+Temperatures
+Horse-RacingDuels
+easy
+So
+Much
+Text!!!
+Timeout?
+IDC
+IDK
+:(
+:)
+=(
+=)
+xD
+T_T
+:|
+Unknown
+pymore
+py
+
+Expected output
+
+CodinGame/puzzle/ChuckNorris/Temperatures/Horse-RacingDuels/easy/So/Much/Text!!!/Timeout?/IDC/IDK/:(/:)/=(/=)/xD/T_T/:|/Unknown/pymore.py
