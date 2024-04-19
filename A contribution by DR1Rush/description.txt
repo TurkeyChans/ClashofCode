@@ -1,0 +1,29 @@
+A contribution by DR1Rush
+
+Approved by Randrian,Unnamed CodinGamerandDelfic
+
+Goal
+
+Given a number N sum up all even numbers from 2 to N.
+
+Input
+
+Line 1 The number N
+
+Output
+
+Line 1 An integer K, the sum of all even numbers in the range 2 to N (Inclusive).
+
+Constraints
+2 = N =10000
+2 = K = 25005000
+
+Example
+
+Input
+
+10
+
+Output
+
+30
